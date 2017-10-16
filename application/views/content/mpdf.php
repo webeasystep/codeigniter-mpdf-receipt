@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html>
 <!-- <html lang="ar"> for arabic only -->
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
